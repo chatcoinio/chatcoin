@@ -31,4 +31,3 @@ npx hardhat node
 npx hardhat run scripts/deploy.ts --network localhost
 ```
 
-See the ChatCoin whitepaper for details on the protocol and system design.
