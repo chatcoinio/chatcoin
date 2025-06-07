@@ -33,5 +33,6 @@
     "hardhat": "^2.24.2",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "license": "MIT"
 }
